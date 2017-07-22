@@ -1,0 +1,23 @@
+c:\users\erdiyalcin\documents\visual studio 2010\Projects\NDP_Giris\NDP_Giris\obj\x86\Debug\NDP_Giris.Properties.Resources.resources
+c:\users\erdiyalcin\documents\visual studio 2010\Projects\NDP_Giris\NDP_Giris\obj\x86\Debug\NDP_Giris.csproj.GenerateResource.Cache
+c:\users\erdiyalcin\documents\visual studio 2010\Projects\NDP_Giris\NDP_Giris\bin\Debug\NDP_Giris.exe
+c:\users\erdiyalcin\documents\visual studio 2010\Projects\NDP_Giris\NDP_Giris\bin\Debug\NDP_Giris.pdb
+c:\users\erdiyalcin\documents\visual studio 2010\Projects\NDP_Giris\NDP_Giris\obj\x86\Debug\NDP_Giris.frmGirisEkrani.resources
+c:\users\erdiyalcin\documents\visual studio 2010\Projects\NDP_Giris\NDP_Giris\obj\x86\Debug\NDP_Giris.exe
+c:\users\erdiyalcin\documents\visual studio 2010\Projects\NDP_Giris\NDP_Giris\obj\x86\Debug\NDP_Giris.pdb
+C:\Users\asena hazal\Desktop\19062017 Ders Örnekleri\NDP_Giris\NDP_Giris\bin\Debug\NDP_Giris.exe
+C:\Users\asena hazal\Desktop\19062017 Ders Örnekleri\NDP_Giris\NDP_Giris\bin\Debug\NDP_Giris.pdb
+C:\Users\asena hazal\Desktop\19062017 Ders Örnekleri\NDP_Giris\NDP_Giris\obj\x86\Debug\NDP_Giris.csprojResolveAssemblyReference.cache
+C:\Users\asena hazal\Desktop\19062017 Ders Örnekleri\NDP_Giris\NDP_Giris\obj\x86\Debug\NDP_Giris.frmGirisEkrani.resources
+C:\Users\asena hazal\Desktop\19062017 Ders Örnekleri\NDP_Giris\NDP_Giris\obj\x86\Debug\NDP_Giris.Properties.Resources.resources
+C:\Users\asena hazal\Desktop\19062017 Ders Örnekleri\NDP_Giris\NDP_Giris\obj\x86\Debug\NDP_Giris.csproj.GenerateResource.Cache
+C:\Users\asena hazal\Desktop\19062017 Ders Örnekleri\NDP_Giris\NDP_Giris\obj\x86\Debug\NDP_Giris.exe
+C:\Users\asena hazal\Desktop\19062017 Ders Örnekleri\NDP_Giris\NDP_Giris\obj\x86\Debug\NDP_Giris.pdb
+C:\Users\asena hazal\Desktop\OOP\NDP_Giris\NDP_Giris\bin\Debug\NDP_Giris.exe
+C:\Users\asena hazal\Desktop\OOP\NDP_Giris\NDP_Giris\bin\Debug\NDP_Giris.pdb
+C:\Users\asena hazal\Desktop\OOP\NDP_Giris\NDP_Giris\obj\x86\Debug\NDP_Giris.csprojResolveAssemblyReference.cache
+C:\Users\asena hazal\Desktop\OOP\NDP_Giris\NDP_Giris\obj\x86\Debug\NDP_Giris.frmGirisEkrani.resources
+C:\Users\asena hazal\Desktop\OOP\NDP_Giris\NDP_Giris\obj\x86\Debug\NDP_Giris.Properties.Resources.resources
+C:\Users\asena hazal\Desktop\OOP\NDP_Giris\NDP_Giris\obj\x86\Debug\NDP_Giris.csproj.GenerateResource.Cache
+C:\Users\asena hazal\Desktop\OOP\NDP_Giris\NDP_Giris\obj\x86\Debug\NDP_Giris.exe
+C:\Users\asena hazal\Desktop\OOP\NDP_Giris\NDP_Giris\obj\x86\Debug\NDP_Giris.pdb

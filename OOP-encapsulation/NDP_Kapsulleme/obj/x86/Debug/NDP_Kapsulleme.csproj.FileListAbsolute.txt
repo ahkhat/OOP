@@ -1,0 +1,15 @@
+c:\users\erdiyalcin\documents\visual studio 2010\Projects\NDP_Kapsulleme\NDP_Kapsulleme\bin\Debug\NDP_Kapsulleme.exe
+c:\users\erdiyalcin\documents\visual studio 2010\Projects\NDP_Kapsulleme\NDP_Kapsulleme\bin\Debug\NDP_Kapsulleme.pdb
+c:\users\erdiyalcin\documents\visual studio 2010\Projects\NDP_Kapsulleme\NDP_Kapsulleme\obj\x86\Debug\NDP_Kapsulleme.Form1.resources
+c:\users\erdiyalcin\documents\visual studio 2010\Projects\NDP_Kapsulleme\NDP_Kapsulleme\obj\x86\Debug\NDP_Kapsulleme.Properties.Resources.resources
+c:\users\erdiyalcin\documents\visual studio 2010\Projects\NDP_Kapsulleme\NDP_Kapsulleme\obj\x86\Debug\NDP_Kapsulleme.csproj.GenerateResource.Cache
+c:\users\erdiyalcin\documents\visual studio 2010\Projects\NDP_Kapsulleme\NDP_Kapsulleme\obj\x86\Debug\NDP_Kapsulleme.exe
+c:\users\erdiyalcin\documents\visual studio 2010\Projects\NDP_Kapsulleme\NDP_Kapsulleme\obj\x86\Debug\NDP_Kapsulleme.pdb
+C:\Users\asena hazal\Desktop\OOP\NDP_Kapsulleme\NDP_Kapsulleme\bin\Debug\NDP_Kapsulleme.exe
+C:\Users\asena hazal\Desktop\OOP\NDP_Kapsulleme\NDP_Kapsulleme\bin\Debug\NDP_Kapsulleme.pdb
+C:\Users\asena hazal\Desktop\OOP\NDP_Kapsulleme\NDP_Kapsulleme\obj\x86\Debug\NDP_Kapsulleme.csprojResolveAssemblyReference.cache
+C:\Users\asena hazal\Desktop\OOP\NDP_Kapsulleme\NDP_Kapsulleme\obj\x86\Debug\NDP_Kapsulleme.Form1.resources
+C:\Users\asena hazal\Desktop\OOP\NDP_Kapsulleme\NDP_Kapsulleme\obj\x86\Debug\NDP_Kapsulleme.Properties.Resources.resources
+C:\Users\asena hazal\Desktop\OOP\NDP_Kapsulleme\NDP_Kapsulleme\obj\x86\Debug\NDP_Kapsulleme.csproj.GenerateResource.Cache
+C:\Users\asena hazal\Desktop\OOP\NDP_Kapsulleme\NDP_Kapsulleme\obj\x86\Debug\NDP_Kapsulleme.exe
+C:\Users\asena hazal\Desktop\OOP\NDP_Kapsulleme\NDP_Kapsulleme\obj\x86\Debug\NDP_Kapsulleme.pdb
